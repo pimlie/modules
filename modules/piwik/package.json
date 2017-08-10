@@ -1,0 +1,11 @@
+{
+  "name": "@nuxtjs/piwik",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/nuxt/modules",
+  "homepage": "https://github.com/nuxt/modules/tree/master/modules/piwik",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js"
+}
